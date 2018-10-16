@@ -31,8 +31,6 @@ const codeMessage = {
   403: 'Forbidden request.',
   404: 'Not found.',
   406: 'Not Acceptable.',
-  410: '请求的资源被永久删除，且不会再得到的。',
-  422: '当创建一个对象时，发生一个验证错误。',
   500: 'Server error',
   502: 'Bad Gateway server error.',
   503: 'Service Unavailable.',
