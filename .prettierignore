@@ -1,0 +1,6 @@
+*.min.js
+*.min.css
+**/vendor/**/*.js
+*.jpg
+*.svg
+*.ejs
