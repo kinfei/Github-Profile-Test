@@ -1,7 +1,0 @@
-*.min.js
-_*.js
-**/build/*
-dist/*
-**/vendors/*
-*.test.js
-registerServiceWorker.js
